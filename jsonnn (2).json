@@ -1,129 +1,74 @@
 {
+  "ADS": {
 
- 
-  "applovin_banner_id": "xxxxxx",
-  "applovin_interstitial_id": "xxxxxx",
-  "applovin_native_id": "xxxxxx",
-  "applovin_rewarded_id": "xxxxxx",
-  "max": false,
+
+    "networkAd": "xx",
+   
+    "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+    "inter_max": "37c0fd7e2939a3be",
+    "max_banner": "13482be8f771efc7",
+    "Native_max": "76d87171404718ed",
+
+    "startapp_id": "139480955",
+
+    "show_cpa": false,
+    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+    "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
+    "cpa_button_text": "Get It Now!",
   
-  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
-  
-  "startapp_id": "xxxxxxxx",
+    
 
-  "Interstitial": "xxxxxxxx",
-  "Banner": "xxxxxxxx",
-  "Native": "xxx",
-  "Rewarded": "xxxxxxxx",
-  
-  
-  "main_inter": true,
-  "os_inter": true,
-  "gender_inter": true,
-  "age_inter": true,
-  "setup_inter": true,
-  
-  "rate": false,
-  
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
-  
-   "show_cpa": false,
-  "cpa_image": "",
-  "cpa_url": "https://smrturl.co/863b5d2",
-  "cpa_button_text": "Get It Now!",
-  
-  "rating_exit_popup": true,
-  
-  "onesignal_id": "xxxxxxx",
-  
-  "app_suspended": false,
-  "suspended_title": "A new update for this app is available.",
-  "suspended_message": "Update this app because this version has some issues.",
-  "suspended_URL": "xxxx",
+    "Image_cpaLink" : "",
+    "LinkCpa": "https://smrturl.co/863b5d2",
+
+    "ImageUrl_banner": "",
+    "LinkCpa_banner": "https://smrturl.co/863b5d2",
+    
+    "ImageUrl_banner1": "",
+    "LinkCpa_banner1": "https://smrturl.co/863b5d2",
+    
+    "ImageUrl_banner2": "",
+    "LinkCpa_banner2": "https://smrturl.co/863b5d2",
+
+    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+    "link_exit": "xxx",
+
+    "privacy" : "https://policies.google.com/privacy?hl=en-US",
+    "url_exit": "xxx",
+    "url_bottom_coins": "",
+
+    "Text_tips1": "Welcome e globe avalia",
+    "Text_tips2": "Welcome To e globe avalia",
+    "Text_tips3": "Welcome To e globe avalia",
+    "Text_tips4": "Welcome To e globe avalia",
+    "Text_tips5": "Welcome To e globe avalia",
+    "Text_tips6": "Welcome To e globe avalia",
+    "Text_tips7": "Welcome To e globe avalia",
+    "Text_tips8": "Welcome To e globe avalia",
 
 
-  "guides": [
-	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+    "Text_title1": "e globe avalia",
+    "Text_title2": "e globe avalia",
+    "Text_title3": "e globe avalia",
+    "Text_title4": "e globe avalia",
+    "Text_title5": "e globe avalia",
+    "Text_title6": "e globe avalia",
+    "Text_title7": "e globe avalia",
+    "Text_title8": "e globe avalia",
 
-	 "isWeb": false,
-	 "url": "xxxx",
 
-	 "isLocked": false,
-	 "id": 1
+    "Text_buttonCoins" : "Male",
+    "Text_buttonTips" : "Women",
+    "Text_buttonmoins" : "- 18",
+    "Text_buttonplus" : "+ 18",
 
-	},
-	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
 
-	 "isWeb": false,
-	 "url": "xxxx",
-	 
-	 "isLocked": false,
-	 "id": 2
-	 
-	},
-	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+    "CpaAds" : "false",
 
-	 "isWeb": false,
-	 "url": "xxxx",
-	 
-	 "isLocked": false,
-	 "id": 3
+    "Click_inter": "0"
 
-	},
-	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
-
-	 "isWeb": false,
-	 "url": "xxxx",
-	 
-	 "isLocked": false,
-	 "id": 4
-
-	},
-	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
-
-	 "isWeb": false,
-	 "url": "xxxx",
-	 
-	 "isLocked": false,
-	 "id": 5
-
-	},
-	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
-
-	 "isWeb": false,
-	 "url": "xxxx",
-	 
-	 "isLocked": false,
-	 "id": 6
-
-	}
-  ]  
+  }
 }
